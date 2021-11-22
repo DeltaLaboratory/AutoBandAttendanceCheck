@@ -1,4 +1,4 @@
 requests~=2.25.1
-selenium~=3.141.0
+selenium~=4.1.0
 colorama~=0.4.4
 2captcha-python~=1.0.3
